@@ -1,0 +1,34 @@
+{
+    "posts":[
+    { 
+        "id": 1,
+        "title": "welcome to the blog", 
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis id vitae pariatur illo molestias eum iure dolores dolore eius sapiente ad quos qui quibusdam, veniam harum voluptate reiciendis? Explicabo delectus quas, saepe fugiat dignissimos eos animi, cumque vitae, veniam inventore magni. Quos, repellat aliquid excepturi optio dolore nam. Laboriosam exercitationem officiis voluptas quae? Aliquid, doloremque cum! Quae voluptas beatae quidem quo sunt assumenda, illum, ipsum molestiae consequatur nostrum sint necessitatibus nulla alias quia incidunt, vitae obcaecati. Unde saepe odio quas, necessitatibus labore laudantium nisi inventore voluptate vel dolor. Quo corrupti beatae quis, repellendus aspernatur ipsam perspiciatis quisquam exercitationem dignissimos facilis!",
+        "tags": [
+            "webdev",
+            "coding",
+            "news"
+        ]
+     },
+     { 
+        "id": 2,
+        "title": "Top 5 css tips", 
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis id vitae pariatur illo molestias eum iure dolores dolore eius sapiente ad quos qui quibusdam, veniam harum voluptate reiciendis? Explicabo delectus quas, saepe fugiat dignissimos eos animi, cumque vitae, veniam inventore magni. Quos, repellat aliquid excepturi optio dolore nam. Laboriosam exercitationem officiis voluptas quae? Aliquid, doloremque cum! Quae voluptas beatae quidem quo sunt assumenda, illum, ipsum molestiae consequatur nostrum sint necessitatibus nulla alias quia incidunt, vitae obcaecati. Unde saepe odio quas, necessitatibus labore laudantium nisi inventore voluptate vel dolor. Quo corrupti beatae quis, repellendus aspernatur ipsam perspiciatis quisquam exercitationem dignissimos facilis!",
+        "tags": [
+            "css",
+            "ui/ux",
+            "manager"
+        ]
+     },
+     { 
+        "id": 3,
+        "title": "Top 5 css tips", 
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis id vitae pariatur illo molestias eum iure dolores dolore eius sapiente ad quos qui quibusdam, veniam harum voluptate reiciendis? Explicabo delectus quas, saepe fugiat dignissimos eos animi, cumque vitae, veniam inventore magni. Quos, repellat aliquid excepturi optio dolore nam. Laboriosam exercitationem officiis voluptas quae? Aliquid, doloremque cum! Quae voluptas beatae quidem quo sunt assumenda, illum, ipsum molestiae consequatur nostrum sint necessitatibus nulla alias quia incidunt, vitae obcaecati. Unde saepe odio quas, necessitatibus labore laudantium nisi inventore voluptate vel dolor. Quo corrupti beatae quis, repellendus aspernatur ipsam perspiciatis quisquam exercitationem dignissimos facilis!",
+        "tags": [
+            "photoshop",
+            "frontend",
+            "backend"
+        ]
+     }
+]
+}
